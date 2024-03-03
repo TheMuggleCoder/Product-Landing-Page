@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OnePlus 10R 5G</title>
+  <link rel="stylesheet" href="styles.css">
+
+  </head>
+  
+  <body>
+    <header id="header">
+      <img id="header-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xAr64eu78zFlm9Y2RdmOu1BgKKXMYjH3nQ" alt="one plus logo">
+      
+      <nav id="nav-bar">
+        
+          <i><a class="nav-link" href="#never-settle" >Never Settle</a><i>
+          <i><a class="nav-link" href="#features" >Features</a></i>
+          <i><a class="nav-link" href="#contact" >Contact</a></i>
+    
+       
+      </nav>
+    </header>
+
+    <section class="main">
+
+      <div id="never-settle">
+
+        <img id="cover-img" src="https://www.91-cdn.com/hub/wp-content/uploads/2022/09/OnePlus-10R-Prime-Blue.jpg" alt="One Plus 10R 5G Never Settle" loading="lazy">
+
+      </div>
+
+      <div id="features">
+        <h2>Exclusive Features</h2>
+        <ul id="feature-list">
+          <li>150 W 50 VOOC</li>
+          <li>ENDURANCE EDITION</li> 
+          <li>Dimensity 8100-MAX Platform</li>
+          <li>50 MP Triple Camera System</li>
+          <li>120Hz Smart Display</li>
+          <li>Impossibly Fast Charging</li>
+          <li>Extreme Performance</li>
+          <li>Advanced Cooling</li>
+          <li>Ultra Smooth Display</li>
+          <li>Oxygen OS 12</li>
+        <ul>
+      </div>
+
+      <div id="trailer">
+        <h3>Feature Video → </h3>
+        <iframe id="video"  src="https://www.youtube.com/embed/arnX66gQBw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+
+      <div id="contact">
+        <h3>Contact Us</h3>
+        <form action="https://www.freecodecamp.com/email-submit" id="form">
+          <label for="#email"> Email : <input type="email" required id="email" name="email" placeholder="Enter your email here"></input></label><br>
+          <label for="#name"> Name : <input type="name" required id="name" name="name" placeholder="Enter your name here"></input></label></br></br>
+          <label><input id="submit" type="Submit"></input><label>
+        </form>
+      </div>
+
+    </section>
+
+    <footer id="footer">
+      <nav >
+        <i id="copyright"><a href="#cover-img">©2023</a><i>
+        <i id="copyright"><a href="#cover-img">Privacy</a><i>
+        <i id="copyright"><a href="#cover-img">Terms</a><i>
+        <i id="copyright"><a href="#cover-img">Accessibility</a><i>
+      </nav>
+    </footer>
+  </body>
+
+</html>
